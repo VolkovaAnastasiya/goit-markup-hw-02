@@ -1,0 +1,33 @@
+body {
+  background: #e5e5e5;
+  color: #212121;
+}
+
+ul {
+  list-style: none;
+}
+
+/* osnovnoj #212121*/
+/* vtorichn #757575 */
+/* belyj #FFFFFF */
+/* akcent #2196F3 */
+/* background: #E5E5E5; */
+
+.logo {
+  color: #000000;
+}
+
+.logo-web {
+  color: #2196f3;
+}
+
+/* site-nav */
+
+.site-nav .link a {
+  color: #000000;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
